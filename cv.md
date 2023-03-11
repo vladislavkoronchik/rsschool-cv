@@ -26,4 +26,4 @@ Hi, I am a web developer with a sense of beauty, in love with frontend and passi
 
 ## Languages
 - RU — Native
-- EN - A1
+- EN — A1
