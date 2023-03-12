@@ -16,7 +16,9 @@ Hi, I am a web developer with a sense of beauty, in love with frontend and passi
 - Gulp, Webpack, Vite
 
 ## Code Examples
-
+```
+const isPowerOfTwo = (n) => Math.log2(n) % 1 === 0
+```
 
 ## Work experience
 
