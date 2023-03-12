@@ -22,7 +22,23 @@ Hi, I am a web developer with a sense of beauty, in love with frontend and passi
 
 
 ## Education
-
+* Moscow Aviation Institute (2014-2018)
+    + Control systems, Computer Science and Electric power engineering
+        - Computer science and computer engineering. Computing machines, systems and networks
+* Highlights Online School (2018)
+    + Basics of Web design in Adobe Photoshop
+* Netology (2018)
+    + Basics of Graphic design
+* FructCode (2018-2019)
+    + HTML/CSS
+    + Bootstrap 3
+    + Javascript/jQuery
+    + Linux/GIT/Хостинг
+    + PHP/MySQL
+* HTML Academy (2019)
+    + Professional PHP, Level 1
+* Tilda School (2021)
+    + Website Designer Start
 
 ## Languages
 - RU — Native
