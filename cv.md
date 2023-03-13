@@ -21,7 +21,17 @@ const isPowerOfTwo = (n) => Math.log2(n) % 1 === 0
 ```
 
 ## Work experience
-
+* [KinoMonster](https://vladislavkoronchik.github.io/kinomonster-html-css/)
+* [KinoMonster Bootstrap](https://vladislavkoronchik.github.io/kinomonster-bootstrap/)
+* [Kvast](https://vladislavkoronchik.github.io/kvast/)
+* [Delivery Food](https://vladislavkoronchik.github.io/delivery-food/)
+* [JS Game Squares](https://vladislavkoronchik.github.io/js-game-squares/)
+* [50 Projects In 50 Days](https://vladislavkoronchik.github.io/50-projects-in-50-days/)
+* [Foods](https://vladislavkoronchik.github.io/layouts-for-training/foods/)
+* [Creative Design](https://vladislavkoronchik.github.io/layouts-for-training/creative-design/)
+* [Business Agency](https://vladislavkoronchik.github.io/layouts-for-training/business-agency)
+* [Apple eCommerce](https://vladislavkoronchik.github.io/layouts-for-training/apple-ecommerce)
+* [Personal Website](https://vladislavkoronchik.github.io/layouts-for-training/personal-website)
 
 ## Education
 * **Moscow Aviation Institute** (2014-2018)
